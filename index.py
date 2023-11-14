@@ -1,1 +1,2 @@
-print("hi")
+print("HI")
+print("Welcome to Speridian")
